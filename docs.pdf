@@ -1,0 +1,25 @@
+Iniciando o caminho pelo Java
+
+Objetivos da prática
+1 - Utilizar herança e polimorfismo na definição de entidades.
+2 - Utilizar persistência de objetos em arquivos binários.
+3 - Implementar uma interface cadastral em modo texto.
+4 - Utilizar o controle de exceções da plataforma Java.
+5 - No final do projeto, o aluno terá implementado um sistema cadastral em
+Java, utilizando os recursos da programação
+
+OUTPUT:Análise e Conclusão:
+O que são elementos estáticos e qual o motivo para o método main adotar
+esse modificador?
+
+() => são elementos que podem ser usados sem instanciar a classe
+usando new, e o método main usa o modificar static ser auto executado,
+sendo o ponto de partida do projeto;
+
+Para que serve a classe Scanner?
+() => serve para poder ler e escrever dados no input stream de fonte de
+entrada;
+
+Como o uso de classes de repositório impactou na organização do código?
+() => facilitou a organização do código, a também na expansão usando
+herança e polimorfismo;
